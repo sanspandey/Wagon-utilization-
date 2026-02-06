@@ -1,0 +1,5 @@
+zone,total_trips,delay_trips,delay_percentage,avg_delay_hr
+Southern,89,67,75.28,6.84
+Central,165,123,74.55,8.75
+Eastern,107,75,70.09,6.87
+Western,139,88,63.31,6.43
